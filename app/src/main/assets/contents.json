@@ -1,0 +1,211 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Bttv",
+      "publisher": "Feelsokayman",
+      "tray_image_file": "OMEGALUL_icon.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "3Head.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5Head.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "AYAYA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Dcolon.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ForsenCD.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GabeN.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "gachiGASM.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GoodMorning.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GoodNight.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "haHAA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "HandsUp.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Kapp.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "KKomrade.webp",
+          "emojis": []
+        },
+
+        {
+          "image_file": "KKona.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Krappa.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LuL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LULW.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MaN.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MikuStare.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "NaM.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "OhISee.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "OMEGALUL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Pog.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PogU.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "WaitWhat.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "WeirdChamp.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "weSmart.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ZULUL.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pepe",
+      "publisher": "FeelsOkayMan",
+      "tray_image_file": "HYPERS_icon.png",
+      "publisher_email": "",
+      "publisher_website": "https://kavishhukmani.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Bruh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ez.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Huh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "HYPERS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Kek.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "peepoHappy.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "peepoLove.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Pepega.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PepeHands.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "pepeJAM.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "pepeL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PepeLaugh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "pepeOK.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Pepepains.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PepoThink.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "POGGERS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "widepeepoHappy.webp",
+          "emojis": []
+        }
+      ]
+    }
+  ]
+}
